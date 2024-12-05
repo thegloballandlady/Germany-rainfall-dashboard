@@ -43,13 +43,13 @@ Highlights average humidity levels for each city, providing insights into region
 * Average Temperature and Rainfall by City
 Displays the relationship between temperature and rainfall for each city, offering a comprehensive view of climatic conditions.
 
-*Maximum Rainfall Monthly by City
+* Maximum Rainfall Monthly by City
 Identifies cities with the highest monthly rainfall, helping understand extreme weather patterns.
 
 * Climate Type by City
 Categorizes cities based on their predominant climate type, providing a spatial overview of climate classifications.
 
-*Average Rainfall Every Month
+* Average Rainfall Every Month
 Analyzes monthly rainfall trends across all cities, offering insights into seasonal precipitation variations.
 
 * Monthly Temperature Rating
@@ -81,7 +81,12 @@ It highlights the interplay of geographic and climatic factors and their impact 
 Contributions are welcome! Feel free to fork this repository, suggest improvements, or add more data visualizations to enhance the insights.
 
 
+![g1](https://github.com/user-attachments/assets/8defb0b5-e7ab-4f3e-b776-cb945a5c960b)
 
+![g2](https://github.com/user-attachments/assets/2a04529d-510a-4280-bd9a-af7e8657b247)
+
+
+![g3](https://github.com/user-attachments/assets/cfd17054-a304-43a3-bcd2-6e80dd5f4431)
 
 
 
