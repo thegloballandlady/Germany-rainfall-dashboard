@@ -77,9 +77,6 @@ This project provides a comprehensive analysis of Germany’s rainfall and clima
 It highlights the interplay of geographic and climatic factors and their impact on local weather conditions.
 
 
-#### How to Contribute
----
-Contributions are welcome! Feel free to fork this repository, suggest improvements, or add more data visualizations to enhance the insights.
 
 
 ![g1](https://github.com/user-attachments/assets/8defb0b5-e7ab-4f3e-b776-cb945a5c960b)
@@ -91,3 +88,6 @@ Contributions are welcome! Feel free to fork this repository, suggest improvemen
 
 
 
+#### How to Contribute
+---
+Contributions are welcome! Feel free to fork this repository, suggest improvements, or add more data visualizations to enhance the insights.
