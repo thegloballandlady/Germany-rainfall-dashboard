@@ -31,31 +31,33 @@ The dataset underwent data cleaning in Excel to ensure consistency and accuracy.
 Dashboards and Insights
 The following dashboards were created in Power BI to visualize and analyze the data:
 
-Minimum and Maximum Latitude by City
-
+* Minimum and Maximum Latitude by City
 Displays the geographic spread of cities, emphasizing latitude variation and its influence on climatic patterns.
-Climate Type Each Month
 
+* Climate Type Each Month
 Maps monthly climate types for each city, showcasing seasonal variations and patterns.
-Humidity by City
 
+* Humidity by City
 Highlights average humidity levels for each city, providing insights into regional moisture conditions.
-Average Temperature and Rainfall by City
 
+* Average Temperature and Rainfall by City
 Displays the relationship between temperature and rainfall for each city, offering a comprehensive view of climatic conditions.
-Maximum Rainfall Monthly by City
 
+*Maximum Rainfall Monthly by City
 Identifies cities with the highest monthly rainfall, helping understand extreme weather patterns.
-Climate Type by City
 
+* Climate Type by City
 Categorizes cities based on their predominant climate type, providing a spatial overview of climate classifications.
-Average Rainfall Every Month
 
+*Average Rainfall Every Month
 Analyzes monthly rainfall trends across all cities, offering insights into seasonal precipitation variations.
-Monthly Temperature Rating
 
+* Monthly Temperature Rating
 Assigns a rating to monthly temperature trends, categorizing them as low, moderate, or high for better comparative analysis.
-Tools Used
+
+
+### Tools Used
+---
 Excel: Data cleaning and preparation
 Power BI: Data transformation, visualization, and analysis
 Key Findings
